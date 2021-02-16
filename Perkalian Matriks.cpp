@@ -22,7 +22,7 @@ void matriks()
 
     
 
-        cout<<"\t\t       PROGRAM PENJUMLAHAN ARRAY 2 DIMENSI         "<<endl;
+        cout<<"\t\t       PROGRAM PERKALIAN ARRAY 2 DIMENSI         "<<endl;
 
 
 
@@ -77,7 +77,7 @@ void matriks()
             system("cls");
 
 
-            cout<<"Hasil Penjumlahan = "<<endl;
+            cout<<"Hasil = "<<endl;
 
 
                 for(bar=1;bar<=2;bar++)
